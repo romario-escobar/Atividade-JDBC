@@ -63,6 +63,7 @@ Isso é necessário porque o driver JDBC do PostgreSQL, por padrão, reescreve a
 
 ## 📦 Estrutura do projeto
 
+
 ```
 modulo11-jdbc/
 ├── pom.xml
